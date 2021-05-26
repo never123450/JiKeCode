@@ -1,4 +1,4 @@
-package java0.conc0303.future;
+package com.xwy.concurrency.conc0303.future;
 
 import java.util.Random;
 import java.util.concurrent.*;

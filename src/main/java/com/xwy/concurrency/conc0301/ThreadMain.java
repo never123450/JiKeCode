@@ -1,4 +1,4 @@
-package java0.conc0301;
+package com.xwy.concurrency.conc0301;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;

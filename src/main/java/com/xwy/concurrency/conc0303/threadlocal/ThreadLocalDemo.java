@@ -1,4 +1,4 @@
-package java0.conc0303.threadlocal;
+package com.xwy.concurrency.conc0303.threadlocal;
 
 public class ThreadLocalDemo {
     

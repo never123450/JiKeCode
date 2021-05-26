@@ -1,5 +1,5 @@
 
-package java0.conc0302.lock;
+package com.xwy.concurrency.conc0302.lock;
 
 public class Count3 {
 

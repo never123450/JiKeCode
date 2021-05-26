@@ -1,5 +1,5 @@
 
-package java0.conc0302.atomic;
+package com.xwy.concurrency.conc0302.atomic;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

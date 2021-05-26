@@ -1,4 +1,4 @@
-package java0.conc0301.op;
+package com.xwy.concurrency.conc0301.op;
 
 public class Join {
     
@@ -14,8 +14,8 @@ public class Join {
             for (int i = 0; i < 100; i++) {
                 if (i == 20) {
                     try {
-                        oo.wait(0);
-                        //thread1.join();
+//                        oo.wait(0);
+                        thread1.join();
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }

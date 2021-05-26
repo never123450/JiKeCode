@@ -1,5 +1,5 @@
 
-package java0.conc0301.sync;
+package com.xwy.concurrency.conc0301.sync;
 
 public class Thread3 {
     class Inner {

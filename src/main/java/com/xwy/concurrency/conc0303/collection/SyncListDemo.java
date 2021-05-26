@@ -1,4 +1,4 @@
-package java0.conc0303.collection;
+package com.xwy.concurrency.conc0303.collection;
 
 import java.util.ArrayList;
 import java.util.Arrays;
